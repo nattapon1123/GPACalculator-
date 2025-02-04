@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GPA007")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0051dd0ba9a34a0c95c0e3ca44f218b407b1ec6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62fb04e2e03e91d48bae996749edf1d1c45c3036")]
 [assembly: System.Reflection.AssemblyProductAttribute("GPA007")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GPA007")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
