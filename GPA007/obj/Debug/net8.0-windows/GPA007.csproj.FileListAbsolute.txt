@@ -1,0 +1,17 @@
+C:\OOP\GPACalculator-\GPA007\bin\Debug\net8.0-windows\GPA007.exe
+C:\OOP\GPACalculator-\GPA007\bin\Debug\net8.0-windows\GPA007.deps.json
+C:\OOP\GPACalculator-\GPA007\bin\Debug\net8.0-windows\GPA007.runtimeconfig.json
+C:\OOP\GPACalculator-\GPA007\bin\Debug\net8.0-windows\GPA007.dll
+C:\OOP\GPACalculator-\GPA007\bin\Debug\net8.0-windows\GPA007.pdb
+C:\OOP\GPACalculator-\GPA007\obj\Debug\net8.0-windows\GPA007.Form1.resources
+C:\OOP\GPACalculator-\GPA007\obj\Debug\net8.0-windows\GPA007.csproj.GenerateResource.cache
+C:\OOP\GPACalculator-\GPA007\obj\Debug\net8.0-windows\GPA007.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\GPACalculator-\GPA007\obj\Debug\net8.0-windows\GPA007.AssemblyInfoInputs.cache
+C:\OOP\GPACalculator-\GPA007\obj\Debug\net8.0-windows\GPA007.AssemblyInfo.cs
+C:\OOP\GPACalculator-\GPA007\obj\Debug\net8.0-windows\GPA007.csproj.CoreCompileInputs.cache
+C:\OOP\GPACalculator-\GPA007\obj\Debug\net8.0-windows\GPA007.sourcelink.json
+C:\OOP\GPACalculator-\GPA007\obj\Debug\net8.0-windows\GPA007.dll
+C:\OOP\GPACalculator-\GPA007\obj\Debug\net8.0-windows\refint\GPA007.dll
+C:\OOP\GPACalculator-\GPA007\obj\Debug\net8.0-windows\GPA007.pdb
+C:\OOP\GPACalculator-\GPA007\obj\Debug\net8.0-windows\GPA007.genruntimeconfig.cache
+C:\OOP\GPACalculator-\GPA007\obj\Debug\net8.0-windows\ref\GPA007.dll
